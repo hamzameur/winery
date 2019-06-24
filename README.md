@@ -6,6 +6,7 @@ In this repository we train random forest regressors and classifiers to predict 
 In order to upload files in a colab notebook add a cell on the top of the notebook and copy/paste the following code:
 
 from google.colab import files
+
 uploaded = files.upload()
 
 ### Key words : 
